@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000023",
-	"version": "1.0.0",
+	"version": "1.0.202004031257",
 	"description": "获取local存储",
 	"scripts": {
 		"test": "tsc -w",
